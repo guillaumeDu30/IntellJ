@@ -50,7 +50,7 @@
           <entry key="dummy" value="2" />
           <entry key="html" value="226" />
           <entry key="java" value="745" />
-          <entry key="properties" value="101" />
+          <entry key="properties" value="102" />
           <entry key="xml" value="48" />
         </counts>
       </usages-collector>
@@ -59,7 +59,7 @@
           <entry key="HTML" value="226" />
           <entry key="JAVA" value="745" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="101" />
+          <entry key="Properties" value="102" />
           <entry key="XML" value="48" />
         </counts>
       </usages-collector>
@@ -67,16 +67,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="356">
@@ -134,9 +134,9 @@
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/exceptions/CustomErrorDecoder.java" />
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/configurations/FeignExceptionConfig.java" />
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/exceptions/ProductNotFoundException.java" />
-        <option value="$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configurations/ApplicationPropertiesConfiguration.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -431,7 +431,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535707155376" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535707688428" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/clientui" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -511,12 +511,12 @@
       <workItem from="1535630441039" duration="1340000" />
       <workItem from="1535631809406" duration="2220000" />
       <workItem from="1535634051117" duration="7809000" />
-      <workItem from="1535696297436" duration="10121000" />
+      <workItem from="1535696297436" duration="10634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21490000" />
+    <option name="totallyTimeSpent" value="22003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -753,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
@@ -767,6 +760,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

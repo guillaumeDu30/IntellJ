@@ -62,17 +62,11 @@ public class ProductBean {
     @Override
     public String toString() {
         return "ProductBean{" +
-
                 "id=" + id +
-
                 ", titre='" + titre + '\'' +
-
                 ", description='" + description + '\'' +
-
                 ", image='" + image + '\'' +
-
                 ", prix=" + prix +
-
                 '}';
     }
 }

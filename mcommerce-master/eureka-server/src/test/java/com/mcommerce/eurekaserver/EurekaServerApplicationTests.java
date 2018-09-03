@@ -1,3 +1,4 @@
+
 package com.mcommerce.eurekaserver;
 
 import org.junit.Test;

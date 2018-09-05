@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="clientui" />
         <module name="config-server" />
-        <module name="demo" />
         <module name="eureka-server" />
         <module name="mcommandes" />
         <module name="microservice-expedition" />
@@ -17,5 +16,15 @@
         <module name="zuul-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clientui" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="mcommandes" target="1.8" />
+      <module name="microservice-expedition" target="1.8" />
+      <module name="mpaiement" target="1.8" />
+      <module name="mproduits" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
